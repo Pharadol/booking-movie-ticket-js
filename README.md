@@ -4,7 +4,7 @@
 $\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/PortfolioJavascript/tree/main/BookingMovieTicket" traget="_blank">  this repository</a>
 
 ## Demo
-You can see a live demo of the project [here](https://pharadolbrown.github.io/PortfolioJavascript/BookingMovieTicket/index.html).
+You can see a live demo of the project [here](https://pharadol.github.io/booking-movie-ticket/).
 
 ![Project Screenshot](https://img5.pic.in.th/file/secure-sv1/BookingMovieTicket.png)
 
