@@ -1,6 +1,8 @@
 # Booking Ticket Workshop
   This workshop is designed to help you build a simple movie ticket booking system using JavaScript, HTML, and CSS. The system allows users to select movie seats, view the total price, and store their selection in local storage.
 
+$\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/PortfolioJavascript/tree/main/BookingMovieTicket" traget="_blank">  this repository</a>
+
 ## Demo
 You can see a live demo of the project [here](https://pharadolbrown.github.io/PortfolioJavascript/BookingMovieTicket/index.html).
 
